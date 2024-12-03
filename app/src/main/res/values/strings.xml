@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InsertionSortApp</string>
+    <string name="sort_button_label">Sort</string>
+    <string name="input_hint">Enter numbers between 0–9 (e.g., 9 8 3)</string>
+    <string name="quit_message">Exiting the application.</string>
+    <string name="error_invalid_size">Error: Array size must be between 3 and 8.</string>
+    <string name="error_invalid_range">Error: Array elements must be between 0 and 9.</string>
+    <string name="error_invalid_input">Error: Please enter valid integers only.</string>
+    <string name="intermediate_steps">Insertion Sort (Intermediate Steps)</string>
+    <string name="input_array">Input Array:</string>
+    <string name="button_quit">Quit</string>
+</resources>
